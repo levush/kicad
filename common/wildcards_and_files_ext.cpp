@@ -95,7 +95,7 @@ const std::string SchematicLibraryFileExtension( "lib" );
 const std::string VrmlFileExtension( "wrl" );
 
 const std::string ProjectFileExtension( "pro" );
-const std::string SchematicFileExtension( "sch" );
+const std::string SchematicFileExtension( "kicad_sch" );
 const std::string NetlistFileExtension( "net" );
 const std::string ComponentFileExtension( "cmp" );
 const std::string GerberFileExtension( "gbr" );
